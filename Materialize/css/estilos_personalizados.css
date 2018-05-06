@@ -1,0 +1,90 @@
+.body-row{
+  background-color: rgba(232, 227, 234, 0.5);
+}
+
+.logo img{
+  width: 100px;
+  border-radius: 30px;
+
+}
+
+.contenedor-botones{
+  margin-top: 10px;
+}
+
+.btn-txt{
+  font-size: 10px;
+}
+
+.slogan{
+  font-size: 15px;
+  margin-top: 50px;
+  font-style: italic;
+}
+
+.barra-superior{
+  height: 98px;
+}
+
+.logor{
+  width: 40px;
+  margin-top: 10px;
+  margin-right: 15px;
+}
+
+.contenido-central{
+  margin-top: 45px;
+}
+
+.contenedor-redes{
+  background-color: rgba(218, 69, 99, 0.1);
+  border-radius: 50px;
+}
+
+.contenedor-fotos{
+  margin-left: 50px;
+}
+
+.cont-interno{
+  margin-top: 15px;
+
+}
+
+.img_principales{
+  border-radius: 10px;
+  margin: 3px;
+  width: 90%;
+}
+
+.img_central{
+height: 50px;
+}
+
+.card .blog1{
+  margin-left: 20px;
+}
+
+.img-blog1{
+  margin: 15px;
+  border-radius: 10px;
+  margin-bottom: 0px !important;
+  padding: 10px;
+  height: 30%;
+
+}
+
+.box-aux{
+  height: 600px;
+}
+
+.blog1{
+  background-color: rgba(218, 69, 99, 0.1);
+  border-radius: 5px;
+}
+.text-perfil{
+  text-align: justify;
+}
+
+.boton_sent{
+  margin: 20px;
+}
